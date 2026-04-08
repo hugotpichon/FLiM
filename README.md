@@ -1,3 +1,5 @@
+*!!Pas encors fonctionel !!
+
 PCB pour l'allimentation de moteur linéaire 
 dans le cadre de la conception d'un flipper/pinball
 
